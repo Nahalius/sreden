@@ -1,12 +1,9 @@
 *{
 font-family: 'Jura', sans-serif;
 }
-
 #bootstrap-overrides p{
     font-size: 22px;
 }
-
-
 #bootstrap-overrides .jumbotron {
 padding: 10px 10px;
 margin: 20px 0px ;
